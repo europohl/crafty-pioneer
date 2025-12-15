@@ -5,11 +5,11 @@ name:
   display: Edwin Pohl
   given: Edwin
   family: Pohl
-  pronunciation: Chien Shiung Wu
-  pronouns: she/her
+  # pronunciation: Chien Shiung Wu
+  pronouns: he/him
 status:
-  icon: "☕️"
-role: Director of Cloud Infrastructure
+  icon: "🌱"
+role: Ressource manager
 bio: >
   I am currently research assistant at BOKU University of Life Sciences in Vienna, Austria with a strong focus on remote sensing, machine learning and spatial data science.
 affiliations:
