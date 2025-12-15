@@ -13,7 +13,8 @@ role: Natural resource manager and ecological engineer
 bio: >
   I am currently research assistant at BOKU University of Life Sciences in Vienna, Austria with a strong focus on remote sensing, machine learning and spatial data science.
 affiliations:
-  - name: BOKU University
+  - icon: assets/media/boku emblem.png
+    name: BOKU University
     url: https://www.boku.ac.at/
 links:
   - icon: at-symbol
