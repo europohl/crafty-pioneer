@@ -22,7 +22,7 @@ sections:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.png
-        # NEU: Parallax-Effekt aktivieren:
+        # NEU: Parallax-Effekt und Textfarbe für besseren Kontrast
         parallax: true
         text_color_light: true
       biography:
