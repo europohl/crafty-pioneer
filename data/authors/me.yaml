@@ -27,49 +27,49 @@ links:
 education:
   - degree: Master in Natural Resource Management and Ecological Engineering
     institution: BOKU University Vienna
-    start: 2023-01-01
+    start: 2023-10-15
     summary: |
       One semester at Lincoln University, New Zealand.
       Focus: Cloud computation, modeling, and remote sensing. [cite: 24, 25, 34]
   - degree: Bachelor of Natural Resource Management
     institution: Martin Luther University Halle-Wittenberg
-    start: 2018-01-01
-    end: 2023-12-31
+    start: 2018-10-01
+    end: 2023-07-16
     summary: |
       Included one semester at University of Lisbon, Portugal. [cite: 22, 23]
   - degree: Secondary School
     institution: Thomas Mann Gymnasium Munich
-    start: 2009-01-01
-    end: 2017-12-31
+    start: 2009-09-01
+    end: 2017-05-20
     summary: |
-      Abitur / Secondary Education. [cite: 20, 21]
+      Abitur / Secondary Education.
 experience:
   - role: Research Assistant
     org: BOKU University of Life Sciences
-    start: 2025-01-01
+    start: 2025-10-01
     summary: |
-      Focus on cloud computation and modeling. [cite: 30, 31, 33, 34]
-  - role: GIS Analyst
+      Strong focus on cloud computation and modeling.
+  - role: GIS Analyst internship
     org: NOTUS energy
-    start: 2023-01-01
-    end: 2023-12-31
+    start: 2022-04-01
+    end: 2022-08-01
     summary: |
       Responsibilities included:
       - Database administration
       - Geodata management
-      - GIS analysis [cite: 35, 36, 38, 39, 40]
+      - GIS analysis
   - role: Project Management
     org: Tarmac eV
     start: 2019-01-01
     summary: |
       Organisation of various components of a music festival including technical components and administration.
-      Planning and constructing lighting technology. [cite: 41, 42, 43, 44, 46]
+      Planning and constructing lighting technology.
   - role: Various Minijobs
     org: Diverse
     start: 2017-01-01
     summary: |
       Worked in Gastronomy, Retail trade, Climbing gyms, and Children's education.
-      Locations: Munich, Potsdam, Halle, Leipzig, Vienna. [cite: 47, 48, 49]
+      Locations: Munich, Potsdam, Halle, Leipzig, Vienna, Christchurch, Lisbon.
 skills:
   - name: Technical Skills
     items:
